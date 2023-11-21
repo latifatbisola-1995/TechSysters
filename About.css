@@ -1,3 +1,154 @@
-body{
+
+
+
+header{
+    background-color:#0A2640 ;
+    padding-bottom: 150px;
+    margin-bottom: none;
+    color: white;
+    text-align: center;
+    padding-left: 400px;
+}
+.container{
+    display: flex;
+    padding-left: 250px;
     
+}
+.base {
+    display:flex;
+    
+}
+.base li{
+    list-style-type: none;
+    border: 1px;
+    margin-left: 50px
+    text-color
+}
+#logo {
+    display: flex;
+    padding-left: 140px;
+    padding-right: ;
+}
+.box-1{
+    display: flex;
+}
+.box-2{
+    display: flex;
+}
+.box-3{
+    display: flex;
+}
+.top{
+    display:flex;
+}
+.image-wrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid #8E8E8E ;
+    border-radius: 40px;
+}
+.image-wrapper1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid #8E8E8E ;
+    border-radius: 40px;
+}
+.value{
+    background-color: #0A2640;
+    padding-left: 300px;
+    color: white;
+    margin-top: 50px;
+    padding-top: 50px;
+    font-size: large;
+}
+.box{
+    
+    border: 2px solid #0A2640 ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.words{
+    border:1px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 30px;
+    
+}
+#main{
+    background-color: #0A2640;
+    border:1px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 50px;
+    text-align: center;
+
+}
+#main h1{
+    color: white;
+}
+.mail{
+    border: 1px;
+    padding-left: 20px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+    font-size: large;
+}
+button{
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius:50px ;
+    background-color:#84e9b5;
+    color:#0A2640;
+    font-size: large;
+
+}
+.down  h3{
+    font-size: larger;
+    font: bolder;
+    margin-left:20px ;
+    margin-right: 20px;
+    
+    
+    
+}
+.down ul li{
+    color: #8E8E8E;
+}
+.pees {
+    border: 1px;
+    font-weight: 100;
+    padding-right: 450px;
+    padding-left: 150px;
+    color:#8E8E8E; 
+    
+}
+.down{
+    display:flex;
+    border: 1px;
+    margin-left: 250px;
+}
+.Newsletter p {
+    color: #8E8E8E;
+}
+.Newsletter h3{
+    color:#8E8E8E;
+}
+.Newsletter{
+    padding-left: 300px;
 }
